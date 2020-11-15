@@ -50,7 +50,7 @@ function App() {
 
   return (
     <main>
-      <Tours tours={tours} removeTour={removeTour} />ؤ
+      <Tours tours={tours} removeTour={removeTour} />
     </main>
   );
 }
